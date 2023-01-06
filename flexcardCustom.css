@@ -1,3 +1,4 @@
+//@import url("https://github.com/bmc-sf/bmc-sf-temp/blob/main/flexcardCustom.css");
 .headerBigBlock{
   background-color: black;
   border: 4px black;
@@ -45,13 +46,10 @@
 }
 .searchButton
 {
-
+  border-radius: 10px;
 }
 .searchButton:hover
 {
+  border-radius: 10px;
   background-color: #ffc500;
-}
-.searchButton:has()
-{
-
 }
