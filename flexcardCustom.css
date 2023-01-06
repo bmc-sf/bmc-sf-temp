@@ -1,0 +1,57 @@
+.headerBigBlock{
+  background-color: black;
+  border: 4px black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px
+}
+.headerTitleBlock
+{
+  background-color: #ffc500;
+  border: 4px black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px
+}
+.searchGlobal
+{
+  background-color: black;
+  border: 4px #ffc500;
+  border-radius: 10px;
+  font-weight: bold;
+  color: black;
+  padding: 10px;
+  margin: 5px
+}
+.colHeaderBlock
+{
+  background-color: black;
+  border: 4px #ffc500;
+  border-radius: 10px;
+  font-weight: bold;
+  color: #ffc500;
+  //height: 20px;
+  text-align: left;
+  padding: 10px;
+  margin: 5px
+}
+.dataBlock
+{
+  background-color: lightgrey;
+  border: 3px black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px
+}
+.searchButton
+{
+
+}
+.searchButton:hover
+{
+  background-color: #ffc500;
+}
+.searchButton:has()
+{
+
+}
